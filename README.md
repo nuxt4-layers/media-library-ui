@@ -1,1 +1,1 @@
-# media-library-ui
+# @nuxt4-layers/media-library-ui
